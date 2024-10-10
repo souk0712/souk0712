@@ -14,20 +14,7 @@
   <p>Hello, Everyone! 👋</p>
   <p>I'm android developer, Areum Lee! 😊</p>
 </div>
-  
-<br><br>
-  
-<!-- Experience -->
-<div align="center">
-  <h3>🌏 Experience</h3> 
-    삼성 청년 SW 아카데미 8기 수료 (2022.07 ~ 2023.06) 🌱<br>
-    (주)한국위치기술 (2022.03 ~ 2022.06)<br>
-    Visoft 인턴 (2021.09 ~ 2022.02)<br>
-    한밭대학교 정보통신공학과 (2018.03 ~ 2022.02)
-</div>
-  
-<br><br>
-  
+
 <!-- tech stack -->
 <div align="center">
   <h3 align="center">📚 Tech Stack 📚</h3>
